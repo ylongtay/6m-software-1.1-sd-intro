@@ -8,6 +8,9 @@ This lesson contains a lot of installations. Learners should expect hiccups and 
 
 1. What are programming languages? Why do we have to use them?
 2. What is the difference between compiler, transpiler and interpreter?
+- Compiler: High level code transformed into a low level code (i.e binary), Convert but not transsmit immediately
+- Transpiler: Old javascript (2015), transpiled new javascript to which old IE can understand
+- Interpreter: Involved in a high level code , convert and transmit immediately
 3. What is a software development environment? (bridging to lesson)
 
 ---
