@@ -19,7 +19,7 @@ Ans: class name is elementThree. Content of css are 1.padding 2.background-color
 
 4. What is the css selector of the fourth element?
 ```
-Selects every <div> element that is the sixth child of its parent
+Ans: Selects every <div> element that is the sixth child of its parent
 ```
 
 5. What is the code you use to keep the blue box within the purple?
